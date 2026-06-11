@@ -25,11 +25,6 @@
 
 ---
 
-
-### ⚠️ Known Issues & Future Improvements / Bilinen Hatalar ve Gelecek Geliştirmeler
-
----
-
 ### ⚠️ Known Issues & Future Improvements / Bilinen Hatalar ve Gelecek Geliştirmeler
 
 * **🇬🇧 English:**
