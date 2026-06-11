@@ -6,6 +6,10 @@
 
 ---
 
+### 📸 Project Overview / Proje Genel Görünümü
+<img width="1011" height="762" alt="Adjustable_Drawing_Table_Assembly" src="https://github.com/user-attachments/assets/825cde1c-3e3a-455c-b0a7-d63359f28069" />
+
+
 ### 🎥 Project Previews / Proje Önizlemeleri
 
 #### 1. 360° Rotation Overview / 360° Genel Döndürme Görünümü
