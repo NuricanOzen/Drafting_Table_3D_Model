@@ -21,4 +21,15 @@
 
 ---
 
+
 ### ⚠️ Known Issues & Future Improvements / Bilinen Hatalar ve Gelecek Geliştirmeler
+
+* **🇬🇧 English:**
+  * **Status:** The static CAD modeling and assembly process of the drawing table have been successfully completed. 
+  * **Identified Anomalies:** When checking the `Motion Study`, there are some minor component lags and interference issues in the lower linkage mechanism due to missing joint limits.
+  * **Future Improvements:** I am planning to fix these motion bugs in the next update by re-organizing the assembly mates and adjusting the tolerances.
+
+* **🇹🇷 Türkçe:**
+  * **Durum:** Çizim masasının statik CAD modellemesi ve parçaların montajı başarıyla tamamlanmıştır.
+  * **Tespit Edilen Hatalar:** `Motion Study` (Hareket Etüdü) simülasyonunu çalıştırdığımda, alt mekanizma kollarındaki bazı montaj ilişkilerinin eksikliğinden dolayı parçalarda anlık takılmalar ve iç içe geçmeler (`interference`) fark ettim.
+  * **Gelecek Geliştirmeler:** Bir sonraki güncellemede montaj ilişkilerini (`mates`) yeniden düzenleyerek ve toleransları elden geçirerek bu hareket hatalarını düzelteceğim.
