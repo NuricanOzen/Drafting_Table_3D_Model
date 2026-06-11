@@ -34,7 +34,7 @@
 
 * **🇬🇧 English:**
   * **Status:** The static CAD modeling and assembly process of the drawing table have been successfully completed. As shown in the report below, there is no static interference.
-  * **Identified Anomalies:** When checking the `Motion Study`, there are some minor component lags and interference issues in the lower linkage mechanism due to some minor inaccuracies in the joint setups.
+  * **Identified Anomalies:** When checking the `Motion Study`, there are some  component lags and interference issues in the lower linkage mechanism due to some  inaccuracies in the joint setups.
   * **Future Improvements:** I am planning to fix these motion bugs in the next update by re-organizing the assembly mates and adjusting the tolerances.
 
 * **🇹🇷 Türkçe:**
