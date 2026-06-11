@@ -6,7 +6,7 @@
 
 ---
 
-### 📸 Project Overview / Proje Genel Görünümü
+### 📸 Project Overview and Static Interference Report / Proje Genel Görünümü ve Statik Çakışma Analizi Raporu
 <img width="1918" height="817" alt="Adjustable_Drawing_Table_Assembly" src="https://github.com/user-attachments/assets/bbcd5bdc-ae55-4a66-8168-47e8047b836d" />
 
 
@@ -28,12 +28,16 @@
 
 ### ⚠️ Known Issues & Future Improvements / Bilinen Hatalar ve Gelecek Geliştirmeler
 
+---
+
+### ⚠️ Known Issues & Future Improvements / Bilinen Hatalar ve Gelecek Geliştirmeler
+
 * **🇬🇧 English:**
-  * **Status:** The static CAD modeling and assembly process of the drawing table have been successfully completed. 
-  * **Identified Anomalies:** When checking the `Motion Study`, there are some minor component lags and interference issues in the lower linkage mechanism due to missing joint limits.
+  * **Status:** The static CAD modeling and assembly process of the drawing table have been successfully completed. As shown in the report below, there is no static interference.
+  * **Identified Anomalies:** When checking the `Motion Study`, there are some minor component lags and interference issues in the lower linkage mechanism due to some minor inaccuracies in the joint setups.
   * **Future Improvements:** I am planning to fix these motion bugs in the next update by re-organizing the assembly mates and adjusting the tolerances.
 
 * **🇹🇷 Türkçe:**
-  * **Durum:** Çizim masasının statik CAD modellemesi ve parçaların montajı başarıyla tamamlanmıştır.
-  * **Tespit Edilen Hatalar:** `Motion Study` (Hareket Etüdü) simülasyonunu çalıştırdığımda, alt mekanizma kollarındaki bazı montaj ilişkilerinin eksikliğinden dolayı parçalarda anlık takılmalar ve iç içe geçmeler (`interference`) fark ettim.
+  * **Durum:** Çizim masasının statik CAD modellemesi ve parçaların montajı başarıyla tamamlanmıştır. Aşağıdaki raporda görüldüğü üzere statik durumda hiçbir çakışma yoktur.
+  * **Tespit Edilen Hatalar:** `Motion Study` (Hareket Etüdü) simülasyonunu çalıştırdığımda, alt mekanizma kollarındaki bazı yanlışlıklardan dolayı parçalarda anlık takılmalar ve iç içe geçmeler (`interference`) fark ettim.
   * **Gelecek Geliştirmeler:** Bir sonraki güncellemede montaj ilişkilerini (`mates`) yeniden düzenleyerek ve toleransları elden geçirerek bu hareket hatalarını düzelteceğim.
