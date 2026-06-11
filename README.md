@@ -1,3 +1,5 @@
->  🇬🇧 English *As bugs are identified, they will be fixed, and the project will be continuously improved.*
+Dosyayı yükledikten sonra "CAD Files" Dosyasının içindeki "Adjustable_Drawing_Table_Assembly" Tıkladıktan sonra açabilirsiniz 
 
->  🇹🇷 Türkçe *Proje hataları fark edildikçe düzeltilecek ve proje sürekli olarak daha iyi hale getirilecektir.*
+Projeden alınmış görüntüler:
+
+![Uploading image.png…]()
