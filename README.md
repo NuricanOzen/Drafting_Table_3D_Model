@@ -21,9 +21,3 @@
 ---
 
 ### ⚠️ Known Issues & Future Improvements / Bilinen Hatalar ve Gelecek Geliştirmeler
-
-* **Anomalies:** During dynamic simulations, minor interference anomalies were identified in the upper link mechanisms due to tolerance constraints.
-* **Next Steps:** The assembly constraints will be continuously updated based on geometric tolerancing and design for manufacturing (DFM) reviews to resolve these structural issues.
-
-* **Mevcut Hatalar:** Dinamik simülasyonlar sırasında, tolerans kısıtlamalarından dolayı üst bağlantı mekanizmalarında küçük çakışma (parça içi geçme) hataları tespit edilmiştir.
-* **Gelecek Adımlar:** Bu yapısal sorunları gidermek amacıyla, geometrik toleranslandırma ve üretime uygunluk (DFM) incelemeleri doğrultusunda montaj ilişkileri sürekli olarak güncellenecektir.
