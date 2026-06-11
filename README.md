@@ -9,7 +9,6 @@
 ### 🎥 Project Previews / Proje Önizlemeleri
 
 #### 1. 360° Rotation Overview / 360° Genel Döndürme Görünümü
-[BURAYA_ROTATION_VİDEOSUNU_SÜRÜKLE_BIRAK]
 <img width="1280" height="720" alt="Adjustable_Drawing_Table_Assembl_Rotation" src="https://github.com/user-attachments/assets/9622ba85-54d5-4a13-85a5-030801c17753" />
 
 
