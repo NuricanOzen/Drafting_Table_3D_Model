@@ -2,4 +2,4 @@ Dosyayı yükledikten sonra "CAD Files" Dosyasının içindeki "Adjustable_Drawi
 
 Projeden alınmış görüntüler:
 
-![Uploading image.png…]()
+
